@@ -46,6 +46,7 @@ Visualized average word counts by category.
 
 
 <img src="https://github.com/anjananadig/spam_detection_classification_analysis/blob/5b0847df919a0728fab78a6a1fd1ddf9617d6e54/Img/Screenshot%20(3).png" alt="word counts" width="600" height="400"/>
+
 **Text Preprocessing:**
 Standardized messages by removing special characters and converting to lowercase.
 
